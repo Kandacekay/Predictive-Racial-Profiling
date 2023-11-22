@@ -7,7 +7,7 @@
 
 ## Racial Profiling Analysis
 ##### Overview
-This repository contains the code and findings for a data analysis project on racial profiling using data from the City of Austin's Open Data Portal. The analysis focuses on arrest data, exploring patterns based on race and location. The project utilizes various technologies, including Python, scikit-learn, Tableau, Jupyter Lab, PySpark, MongoDB, SparkSQL, AWS S3 buckets, and JSON.
+This repository contains the code and findings for a data analysis project on racial profiling using data from the City of Austin's Open Data Portal (https://data.austintexas.gov/browse?q=racial%20profiling&sortBy=relevance). The analysis focuses on arrest data, exploring patterns based on race and location. The project utilizes various technologies, including Python, scikit-learn, Tableau, Jupyter Lab, PySpark, MongoDB, SparkSQL, AWS S3 buckets, and JSON.
 
 ##### Contributors
 - Kandace Johnson
